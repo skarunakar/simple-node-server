@@ -1,0 +1,24 @@
+{
+  "name": "GHCI serber side",
+  "description": "Server side project",
+  "main": "server.js",
+  "authors": [
+    "Shreya Karunakar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "performace"
+  ],
+  "homepage": "https://github.com/shreyakarunakar/GHCI",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" :{
+    "Angular-1":"git@github.com:shreyakarunakar/Angular-1.git"
+  }
+}

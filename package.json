@@ -1,0 +1,22 @@
+{
+  "name": "ghci",
+  "version": "1.0.0",
+  "description": "Performance Benchmarking of Javascript Frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyakarunakar/GHCI.git"
+  },
+  "keywords": [
+    "performace"
+  ],
+  "author": "Shreya Karunakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyakarunakar/GHCI/issues"
+  },
+  "homepage": "https://github.com/shreyakarunakar/GHCI#readme"
+}
