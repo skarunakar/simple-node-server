@@ -1,5 +1,11 @@
 {"var":
 [
-  {"name":"sk"}
+  {
+    "_id": 7,
+    "name": "Angelique Summers",
+    "gender": "female",
+    "age": 38,
+    "marks": 78
+  }
 ]
 }
